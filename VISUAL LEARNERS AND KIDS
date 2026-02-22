@@ -151,12 +151,6 @@
     └─────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## <span style="color: #FF69B4;">🎲</span> <span style="color: #32CD32;">CHAPTER</span> <span style="color: #FFD700;">4️⃣</span> <span style="color: #8A2BE2;">:</span> <span style="color: #00CED1;">STOCHASTIC</span> <span style="color: #FF8C00;">RNG</span> <span style="color: #DC143C;">-</span> <span style="color: #1E90FF;">THE</span> <span style="color: #FF69B4;">MAGIC</span> <span style="color: #32CD32;">OF</span> <span style="color: #8A2BE2;">RANDOMNESS!</span>
-
-### <span style="color: #DC143C;">🔴</span> <span style="color: #1E90FF;">What Does "Stochastic" Mean?</span>
-
 ```
     ╔═══════════════════════════════════════════════════════════════════════════╗
     ║                                                                        ║
@@ -171,8 +165,6 @@
     ║                                                                        ║
     ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
-### <span style="color: #FF8C00;">🟠</span> <span style="color: #1E90FF;">What is RNG?</span>
 
 ```
     ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -238,8 +230,6 @@
     │                                                                     │
     └─────────────────────────────────────────────────────────────────────┘
 ```
-
-### <span style="color: #9370DB;">🟣</span> <span style="color: #1E90FF;">The Probability Rainbow</span>
 
 ```
     ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -309,8 +299,6 @@
     ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-### <span style="color: #FFD700;">🌟</span> <span style="color: #1E90FF;">Why Time Invariance is Important</span>
-
 ```
     ┌─────────────────────────────────────────────────────────────────────┐
     │                                                                     │
@@ -337,8 +325,6 @@
     │                                                                     │
     └─────────────────────────────────────────────────────────────────────┘
 ```
-
-### <span style="color: #32CD32;">🌱</span> <span style="color: #1E90FF;">The Tick-by-Tick Adventure</span>
 
 ```
     ╔═══════════════════════════════════════════════════════════════════════════╗
