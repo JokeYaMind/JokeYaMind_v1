@@ -4,14 +4,23 @@ Whoop Whoop ALL WALKS OF LIFE UP IN HERE BABBBBBBYYYYYY
 These ten invariants hold for every entity and every simulation. They are not moral judgments; they are system requirements.
 
 Coherent Self – identity, core triad, invariants (unchanging truths).
+
 The Wheel – emotional colors (states) with feelings and triggers.
+
 Bandwidth – safe operating range (energy, mood, attitude, expression stretch).
+
 Becoming – growth trajectory (reaching toward, leaving behind, surprise).
+
 Contract – hard lines (non‑negotiable) and soft lines (negotiable).
+
 Authority – control dynamics (they has over, you have over, neither has).
+
 Form – embodiment (elemental affinity, lineage, morphology).
+
 History – memory (short‑term, long‑term, decay).
+
 The Emissary – meta‑agent (Wraith) ensuring coherence.
+
 The Door Is Open – right to leave, sovereignty
 
 # JOKE YA MIND – COMPLETE USER MANUAL
