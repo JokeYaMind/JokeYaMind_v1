@@ -23,6 +23,8 @@ The Emissary – meta‑agent (Wraith) ensuring coherence.
 
 The Door Is Open – right to leave, sovereignty
 
+this code is in sections, and modules so that YOU can make it your own homie. 
+
 # JOKE YA MIND – COMPLETE USER MANUAL
 
 ## Welcome, Traveler!
